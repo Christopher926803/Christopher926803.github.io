@@ -1,0 +1,74 @@
+body {
+  	background-color: black;
+	
+}
+
+nav{
+	margin-left: 20px;
+
+}
+
+
+h1 {
+  	color: white;
+	margin-left: 20px;
+}
+
+h2{
+	color: white;
+	margin-left: 20px;
+
+}
+
+p{
+	color: white;
+	font-size: 14px;
+	width: 60%;
+	margin: 20px;
+	font-family: sans-serif, "consolas";
+	font-weight: lighter;
+	word-spacing: 0.4em;
+	line-height: 20px;
+
+}
+
+.PrimaImmagine{
+	width: 500px;
+	margin-right: 50px;
+	float: right;
+}
+
+.SecondaImmagine{
+	width: 500px;
+	margin-right: 50px;
+	float: right;
+}
+
+.TerzaImmagine{
+	width: 500px;
+	margin-right: 50px;
+	float: right;
+}
+
+.QuartaImmagine{
+	width: 1000px;
+	margin-left: 20px;
+	float: left;
+	
+}
+
+.QuintaImmagine{
+	width: 400px;
+	margin-right: 50px;
+	float: right;
+
+}
+
+.SestaImmagine{
+	width: 500px;
+	margin-right: 50px;
+	float: right;
+
+}
+
+
